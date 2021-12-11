@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mingri159.github.io/navigation-webstack/</id>
+    <title>Gridea</title>
+    <updated>2021-12-11T11:16:15.112Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mingri159.github.io/navigation-webstack/"/>
+    <link rel="self" href="https://mingri159.github.io/navigation-webstack/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://mingri159.github.io/navigation-webstack/images/avatar.png</logo>
+    <icon>https://mingri159.github.io/navigation-webstack/favicon.ico</icon>
+    <rights>All rights reserved 2021, Gridea</rights>
+</feed>
